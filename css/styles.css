@@ -1,3 +1,19 @@
 body{
 	background-color:#0FC;
+}.contenedor {
+	color: #3A6666;
+	background-color: #F3F;
+	text-align: center;
+	height: 80px;
+	width: 250px;
+	vertical-align: middle;
+	margin: 0 auto;
+	position: absolute;
+	left: 43%;
+	top: 40%;
+}
+.contenedor .boton {
+	position: absolute;
+	left: 40%;
+	top: 40%;
 }
